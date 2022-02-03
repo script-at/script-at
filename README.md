@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @script-at
-- 👀 I’m interested in server, intermediary devices
+- 👀 I’m interested in server and intermediary devices
 - 🌱 I’m currently learning Proxmox VE, TrueNAS, and MTCNA
 - 💞️ I’m looking to collaborate on network engineer and server administration
 - 📫 How to reach me: come to attaufiq school
